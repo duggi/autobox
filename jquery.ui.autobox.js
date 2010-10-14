@@ -1,6 +1,6 @@
 /**
  * jQuery Autobox Plugin
- * Copyright (c) 2010 byggy.com
+ * Copyright (c) 2010 Brandon Lee (brandon@byggy.com)
  *
  * http://github.com/brandon733/autobox
  *
