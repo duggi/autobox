@@ -3,6 +3,8 @@
  * Copyright (c) 2010 Brandon Lee (brandon@byggy.com)
  *
  * http://github.com/brandon733/autobox
+ * Run sample:
+ *	http://www.byggy.com/blog/projects/autobox/
  *
  * Dual licensed under the BSD and GPL licenses:
  *	http://en.wikipedia.org/wiki/Bsd_license
